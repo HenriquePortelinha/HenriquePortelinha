@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @HenriquePortelinha
-- 👀 I’m interested in job
-- 🌱 I’m currently studying to be web developer
+- 👀 I’m interested in work with python
+- 🌱 I’m currently studying to be python developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me in valorant hihi
+- 📫 How to reach me 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:  
+- ⚡ Fun fact: i love animes
 
 <!---
 HenriquePortelinha/HenriquePortelinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
