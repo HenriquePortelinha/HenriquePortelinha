@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenriquePortelinha
 - 👀 I’m interested in work with python
-- 🌱 I’m currently studying to be python developer
+- 🌱 I’m currently studying to be python-django web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: he/him
