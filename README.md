@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @HenriquePortelinha
-- 👀 I’m interested in work with python
-- 🌱 I’m currently studying to be python-django web developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i love animes
+Sobre mim
 
-<!---
-HenriquePortelinha/HenriquePortelinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá! Sou Henrique, um desenvolvedor em início de carreira focado em Back-end com Python e Django. Atualmente, estou aprofundando meus conhecimentos para construir aplicações robustas e escaláveis, com interesse especial em trabalhar com APIs e sistemas de gestão de dados. Busco oportunidades para ganhar experiência prática e contribuir para projetos reais.
+
+Minha meta é construir uma carreira sólida em desenvolvimento web, tanto como freelancer quanto em equipes de tecnologia. Vamos conectar e explorar novas ideias juntos!
+.
