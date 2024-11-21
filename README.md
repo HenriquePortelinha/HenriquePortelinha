@@ -1,6 +1,36 @@
-Sobre mim
+👋 Olá! Meu nome é **Henrique Portelinha**, um estudante e aspirante a desenvolvedor **Full Stack**, apaixonado por tecnologia, código e a constante evolução do mundo digital. Estou focado em construir minha carreira como desenvolvedor Full Stack utilizando tecnologias modernas para criar soluções eficientes e elegantes.
 
-Olá! Sou Henrique, um desenvolvedor em início de carreira focado em Back-end com Python e Django. Atualmente, estou aprofundando meus conhecimentos para construir aplicações robustas e escaláveis, com interesse especial em trabalhar com APIs e sistemas de gestão de dados. Busco oportunidades para ganhar experiência prática e contribuir para projetos reais.
+## 🚀 Sobre mim
+- 🎓 Atualmente no **1º ano do ensino médio**, mas já dedicado a aprender desenvolvimento de software.
+- 💻 Estudando **HTML**, **CSS**, **JavaScript** e **PHP** para o Front-end e Back-end.
+- 🌐 Focado em me especializar em **Django** e **Laravel** como frameworks principais.
+- 🛠️ Trabalhando em projetos práticos e reais para reforçar meu aprendizado.
+- 🌟 Objetivo: Tornar-me um **desenvolvedor Full Stack profissional** e construir uma carreira sólida na área.
 
-Minha meta é construir uma carreira sólida em desenvolvimento web, tanto como freelancer quanto em equipes de tecnologia. Vamos conectar e explorar novas ideias juntos!
-.
+## 🧑‍💻 O que estou aprendendo
+- **Front-end:** 
+  - HTML5, CSS3, JavaScript (ES6+).
+  - Frameworks: Bootstrap e (futuramente) React.js.
+- **Back-end:**
+  - PHP (com Laravel).
+  - Python (com Django).
+- **Outras tecnologias:**
+  - Banco de Dados: MySQL e PostgreSQL.
+  - Controle de versão com Git e GitHub.
+  - Práticas de segurança e performance em aplicações web.
+
+## 🛠️ Meus projetos
+Aqui estão alguns dos projetos que estou desenvolvendo para praticar minhas habilidades:
+- [Gerenciador de Tarefas](https://github.com/HenriquePortelinha/gerenciador-de-tarefas): Um sistema simples para gerenciar tarefas, feito em Django.
+- [API de Animes](https://github.com/HenriquePortelinha/api-de-animes): API para listar e gerenciar animes sem Front-end.
+- [Automação de E-mails](https://github.com/HenriquePortelinha/automacao-email-senha): Script de automação para envio de e-mails.
+
+## 🌱 Próximos passos
+- Aprender React.js e Vue.js para criar interfaces mais dinâmicas.
+- Aprofundar conhecimentos em Docker e DevOps para deploy de aplicações.
+- Criar um portfólio pessoal para divulgar meus projetos.
+
+## 📫 Entre em contato comigo
+- **GitHub:** [HenriquePortelinha](https://github.com/HenriquePortelinha)
+- **E-mail:** henriquesportelinha@gmail.com
+- **LinkedIn:** 
